@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChatSample</string>
+    <string name="btnSend">Send</string>
+    <string name="login_greeting">Hello, there.</string>
+    <string name="api_pusher">Pusher</string>
+    <string name="api_pubnub">PubNub</string>
+    <string name="user_head">head_thumb</string>
+</resources>
